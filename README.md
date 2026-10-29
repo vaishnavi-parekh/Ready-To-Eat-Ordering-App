@@ -33,3 +33,5 @@ Demo admin login: `admin@blossom.com` / `admin123`
 - Data lives only in the browser's IndexedDB, so it is not shared between devices.
 - Passwords are stored in plain text for demo purposes. A real version needs hashed passwords and server-side authentication.
 - Planned: a Node.js + Express backend with a MySQL database, secure sessions and online payments.
+## Note
+This is a learning/demo project. The brand name, logo and images belong to their respective owners and are used here for demonstration only.
